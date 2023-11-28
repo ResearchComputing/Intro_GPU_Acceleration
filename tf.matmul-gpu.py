@@ -6,6 +6,11 @@ import time
 os.environ["CUDA_VISIBLE_DEVICES"]="0"
 os.environ["TF_CPP_MIN_LOG_LEVEL"]="3"
 
+if tf.test.gpu_device_name():
+        print("GPU found")
+else:
+        print("Tensorflow is using only CPUs.")
+
 numpy_start=time.time()
 a = np.random.rand(10000, 70000)
 print("Numpy generated a random 10000x70000 matrix, matrix a.")
