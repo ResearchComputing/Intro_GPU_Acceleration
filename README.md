@@ -1,2 +1,2 @@
-# Intro_GPU_Acceleration_Alpine
-#Scripts used for CURC's 'Introduction to GPU Acceleration on Alpine' tutorial
+# Intro to GPU Acceleration 
+Powerpoint Slides and other materials for Intro to GPU Acceleration presentation
