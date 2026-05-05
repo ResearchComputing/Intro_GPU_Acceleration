@@ -6,3 +6,9 @@ This Primer*, aimed at researchers with little to no GPU programming experience,
 Participants should have a personal computer and a [Research Computing Account](https://curc.readthedocs.io/en/latest/getting_started/logging-in.html#getting-a-curc-account) prior to the start of the training if they wish to try hands-on examples. 
 
 _*What is a Primer?_ A Primer is a session that provides an introduction to concepts, systems, and tools. You can expect to leave a Primer with an introductory-level understanding of the topic.
+
+--- 
+
+We aim to make our online resources accessible to everyone. 
+If you encounter any barriers in the materials contained in this repository, please report them through our support request form
+https://colorado.service-now.com/req_portal?id=ucb_sc_rc_form
